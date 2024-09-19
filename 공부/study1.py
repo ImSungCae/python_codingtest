@@ -23,6 +23,6 @@ def solution(input):
     return max_profit
 
 
-# input = [7, 1, 3, 4, 6]
-input = [7, 6, 5]
+input = [7, 1, 3, 4, 6]
+# input = [7, 6, 5]
 print(solution(input))
